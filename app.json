@@ -1,0 +1,11 @@
+{
+  "name":"wpmonk",
+  "description":"",
+  "scripts":{},
+  "env":{},
+  "addons":[
+    "pgstudio",
+    "heroku-postgresql",
+    "papertrail"
+  ]
+}
